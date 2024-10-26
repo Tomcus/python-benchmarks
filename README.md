@@ -8,3 +8,4 @@ Also checks what difference makes compiling python with gcc or clang.
 * whatever is needed to build python
 * `gcc` and `clang`
 * `bash` - to run main scripts
+* `hyperfine` - [benchmarking tool](https://github.com/sharkdp/hyperfine)
